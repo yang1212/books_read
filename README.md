@@ -14,6 +14,6 @@
 
 * [【书籍分类】-荡平你的心灵](https://github.com/yang1212/vue-about/tree/master/7%20%20-%E8%8D%A1%E5%B9%B3%E4%BD%A0%E7%9A%84%E5%BF%83%E7%81%B5)
 
-* [【书籍分类】-漫画](https://github.com/yang1212/vue-about/tree/master/6%20-%E6%BC%AB%E7%94%BB)
+* [【书籍分类】-漫画](https://github.com/yang1212/vue-about/tree/master/8%20%20-%E6%BC%AB%E7%94%BB)
 
 * [【书籍分类】-懒得分类的大杂烩](https://github.com/yang1212/vue-about/tree/master/%E6%87%92%E5%BE%97%E5%88%86%E7%B1%BB%E7%9A%84%E5%A4%A7%E6%9D%82%E7%83%A9)
