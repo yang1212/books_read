@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/937/931937/t6_931937.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_931937](https://user-images.githubusercontent.com/17806205/203719917-e8412dd1-a15f-4199-916c-3c2bdb811bed.jpg)
 
 一生充和
 王道

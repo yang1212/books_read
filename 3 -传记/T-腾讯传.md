@@ -1,4 +1,5 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/471/432471/t6_432471.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_YueWen_432471](https://user-images.githubusercontent.com/17806205/203718534-fec7526d-c0cf-4d09-a06e-2a479459f534.jpg)
+
 
 腾讯传1998-2016：中国互联网公司进化论
 吴晓波
