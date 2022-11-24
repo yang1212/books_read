@@ -1,6 +1,3 @@
-
-## Webpack实战：入门、进阶与调优 | 居玉皓
-
 <img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/876/25545876/t6_25545876.jpg" alt="书籍封面" class="wr_bookCover_img">
 
 

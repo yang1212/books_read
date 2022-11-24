@@ -1,6 +1,4 @@
-## 程序员的自我修养 | 陈逸鹤
-
-![1](https://wfqqreader-1252317822.image.myqcloud.com/cover/691/920691/t6_920691.jpg)
+![t6_920691](https://user-images.githubusercontent.com/17806205/203682529-da56d4d8-54f9-4e36-82a6-c75d7b6b45fb.jpg)
 
 
 ### 简介
