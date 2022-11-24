@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/261/23691261/t6_23691261.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_23691261](https://user-images.githubusercontent.com/17806205/203689036-e4a50a72-9216-461a-81a0-4a1b9e913ea3.jpg)
 
 女性脑
 丹尼尔·亚蒙

@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/684/23784684/t6_23784684.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_23784684](https://user-images.githubusercontent.com/17806205/203686623-dc19425b-740a-4a32-94bc-c13cd54db759.jpg)
 
 大脑帝国
 卡娅·努尔英恩

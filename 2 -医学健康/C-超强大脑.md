@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/317/23691317/t6_23691317.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_23691317](https://user-images.githubusercontent.com/17806205/203685856-f6bb5e16-41e2-4710-8119-6e07b6e5c556.jpg)
 
 超强大脑
 丹尼尔·亚蒙

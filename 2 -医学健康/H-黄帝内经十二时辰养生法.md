@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/79/388079/t6_388079.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_388079](https://user-images.githubusercontent.com/17806205/203688004-09a6f615-d9cb-407d-b948-e589b2be0c9f.jpg)
 
 黄帝内经十二时辰养生
 《书立方·养生馆》编委会

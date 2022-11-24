@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/495/37544495/t6_37544495.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_37544495](https://user-images.githubusercontent.com/17806205/203689288-5ced2802-767f-404e-9b18-51f760fda3cc.jpg)
 
 是我把你蠢哭了吗
 迪安·博内特

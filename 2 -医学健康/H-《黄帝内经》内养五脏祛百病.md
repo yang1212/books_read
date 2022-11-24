@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/19/859019/t6_859019.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_859019](https://user-images.githubusercontent.com/17806205/203687454-22c2e648-5e23-44cd-80d5-8f1fdd152272.jpg)
 
 《黄帝内经》内养五脏祛百病
 王东坡

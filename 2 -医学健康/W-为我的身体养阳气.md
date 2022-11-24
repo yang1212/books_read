@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/909/818909/t6_818909.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_818909](https://user-images.githubusercontent.com/17806205/203689679-cb4d2d5e-d3cd-498f-8b3e-26ab1593f089.jpg)
 
 为我的身体养阳气
 武国忠

@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/999/815999/t6_815999.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_815999](https://user-images.githubusercontent.com/17806205/203688111-4d6b1217-b3b9-441d-a3d0-1165099125a7.jpg)
 
 积极心理学：挖掘幸福本源的神奇处方
 文成蹊

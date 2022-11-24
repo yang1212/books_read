@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/88/35551088/t6_35551088.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_35551088](https://user-images.githubusercontent.com/17806205/203687873-f25eb0eb-afa0-4656-96ae-8be1b4164347.jpg)
 
 蛤蟆先生去看心理医生
 罗伯特·戴博德

@@ -1,4 +1,5 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/87/38625087/t6_38625087.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_38625087](https://user-images.githubusercontent.com/17806205/203688326-93c88475-11c7-4f00-8f6b-2514185bfd35.jpg)
+
 
 考试脑科学：脑科学中的高效记忆法
 池谷裕二

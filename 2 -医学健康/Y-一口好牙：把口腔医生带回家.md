@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/969/31169969/t6_31169969.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_31169969](https://user-images.githubusercontent.com/17806205/203689937-54fb46d2-3a94-47c4-bf03-de1f82d4d4fe.jpg)
 
 一口好牙：把口腔医生带回家
 郝泽良 郝帅
