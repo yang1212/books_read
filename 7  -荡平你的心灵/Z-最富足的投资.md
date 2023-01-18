@@ -1,4 +1,4 @@
-![1](https://wfqqreader-1252317822.image.myqcloud.com/cover/152/927152/t6_927152.jpg)
+![t6_YueWen_927152](https://user-images.githubusercontent.com/17806205/213099884-77036dee-2ca8-40fe-ad3b-faa284d7d1fe.jpg)
 
 最富足的投资
 吉姆·罗杰斯

@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/620/522620/t6_522620.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_YueWen_522620](https://user-images.githubusercontent.com/17806205/213099868-e75fc52c-0f5c-41b1-a733-57cfc10638ec.jpg)
 
 在绝望中寻找希望：俞敏洪写给迷茫不安的年轻人
 俞敏洪

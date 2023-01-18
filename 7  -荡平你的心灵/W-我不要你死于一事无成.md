@@ -1,4 +1,5 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/762/24925762/t6_24925762.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_YueWen_24925762](https://user-images.githubusercontent.com/17806205/213099071-f0a35373-d1be-4af4-9d51-bf434b913b8f.jpg)
+
 
 我不要你死于一事无成：给女儿的17封告别信（2018全新修订珍藏版）
 法齐娅·库菲

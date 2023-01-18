@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/523/31265523/t6_31265523.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_31265523](https://user-images.githubusercontent.com/17806205/213099102-faa9ab10-0596-4b5c-bab9-23edc2148776.jpg)
 
 向上生长
 九边

@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/1/26720001/t6_26720001.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_26720001](https://user-images.githubusercontent.com/17806205/213097765-4175f776-946c-4044-aa79-90ad9cba1ca7.jpg)
 
 成为极少数
 李栩然

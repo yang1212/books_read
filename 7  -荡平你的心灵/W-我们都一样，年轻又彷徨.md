@@ -1,0 +1,1 @@
+![t6_674030](https://user-images.githubusercontent.com/17806205/213099084-9f116ac1-c361-4a96-9839-f55881871c4c.jpg)

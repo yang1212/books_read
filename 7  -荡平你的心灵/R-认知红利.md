@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/790/26261790/t6_26261790.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_26261790](https://user-images.githubusercontent.com/17806205/213098972-0b2dc93a-6973-4e5d-8730-1e6661aba86f.jpg)
 
 认知红利
 谢春霖
