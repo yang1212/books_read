@@ -1,4 +1,4 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/151/718151/t6_718151.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_YueWen_718151](https://user-images.githubusercontent.com/17806205/213068467-7f363eca-ab3e-4e9a-9b07-9331dcab1d06.jpg)
 
 南京大屠杀
 张纯如

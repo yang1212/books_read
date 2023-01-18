@@ -1,4 +1,6 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/339/546339/t6_546339.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_546339](https://user-images.githubusercontent.com/17806205/213070234-36e24639-7db9-4524-87c0-12e35dccc2f4.jpg)
+
+
 
 追风筝的人
 卡勒德·胡赛尼

@@ -1,4 +1,5 @@
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/831/26605831/t6_26605831.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_YueWen_26605831](https://user-images.githubusercontent.com/17806205/213068401-ae49073c-490a-4c3f-af78-69e8544e5431.jpg)
+
 
 历史的温度（全四册-独家定制版）
 张玮

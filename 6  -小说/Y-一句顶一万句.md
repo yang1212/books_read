@@ -1,5 +1,4 @@
-## 一句顶一万句 | 刘震云
-<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/835/934835/t6_934835.jpg" alt="书籍封面" class="wr_bookCover_img">
+![t6_YueWen_934835](https://user-images.githubusercontent.com/17806205/213070199-72d3d4ff-58fa-4680-a5a8-fbb90af5d845.jpg)
 
 ### 简介
 
