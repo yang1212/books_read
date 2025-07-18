@@ -41,7 +41,7 @@ module.exports = {
       // 继续添加其他分类
     ],
     nav: [
-      { text: '首页', link: '/' },
+      { text: '🏠 June', link: 'https://yangfu.asia' }, 
       { text: 'GitHub', link: 'https://github.com/yang1212/books_read' }
     ]
   }
