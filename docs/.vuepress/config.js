@@ -2,47 +2,30 @@ module.exports = {
   title: '📚 书籍推荐',
   description: '书籍分类导航',
   themeConfig: {
-    sidebar: [
-      {
-        title: '1-IT',
-        path: '/1-IT/',
-        collapsable: false,
-      },
-      {
-        title: '2-医学健康',
-        path: '/2-医学健康/',
-        collapsable: false,
-      },
-      {
-        title: '3-传记',
-        path: '/3-传记/',
-        collapsable: false,
-      },
-      {
-        title: '4-经济',
-        path: '/4-经济/',
-        collapsable: false,
-      },
-      {
-        title: '5-历史',
-        path: '/5-历史/',
-        collapsable: false,
-      },
-      {
-        title: '6-小说',
-        path: '/6-小说/',
-        collapsable: false,
-      },
-      {
-        title: '7-荡平你的心灵',
-        path: '/7-荡平你的心灵/',
-        collapsable: false,
-      },
-      // 继续添加其他分类
-    ],
     nav: [
-      { text: '🏠 June', link: 'https://yangfu.asia' }, 
+      { text: '🏠 主站', link: 'https://yangfu.asia' }, 
       { text: 'GitHub', link: 'https://github.com/yang1212/books_read' }
-    ]
-  }
+    ],
+    // 恢复侧边栏但设置为可折叠
+    sidebar: 'false'
+  },
+  // 自定义页面布局
+  markdown: {
+    lineNumbers: true,
+    extractHeaders: ['h2', 'h3', 'h4']
+  },
+  // 配置页面宽度
+  evergreen: true,
+  // 配置主机和端口
+  host: '0.0.0.0',
+  port: 8080,
+  // 添加插件支持
+  plugins: [
+    // 可以添加一些有用的插件
+    ['@vuepress/back-to-top', true],
+    ['@vuepress/pwa', {
+      serviceWorker: true,
+      updatePopup: true
+    }]
+  ]
 }
