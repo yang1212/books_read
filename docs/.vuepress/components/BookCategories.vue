@@ -42,8 +42,8 @@ export default {
 <style scoped>
 .categories-container {
   max-width: 1200px;
-  margin: 0 auto 3rem;
-  padding: 0 20px;
+  margin: 10px auto 3rem;
+  padding: 10px 20px;
 }
 
 .categories-title {

@@ -14,10 +14,10 @@
     <BookCategories />
 
     <!-- 热门书籍推荐 -->
-    <div class="featured-books">
+    <!-- <div class="featured-books">
       <h2 class="section-title">🔥 热门推荐</h2>
       <BookList  :books="featuredBooks" />
-    </div>
+    </div> -->
   </div>
 </template>
 
