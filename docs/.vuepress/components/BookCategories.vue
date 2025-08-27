@@ -15,6 +15,23 @@
         </a>
       </div>
     </div>
+    <br/>
+    <br/>
+    <h2>💫 精品书籍</h2>
+    <p>花高价买的系统读书书单，搭建知识架构～</p>
+    <div class="categories-grid">
+      <div class="category-card" @mouseenter="hoveredCategory = 100"
+           @mouseleave="hoveredCategory = null">
+        <a href="/systematic-reading/" class="category-link">
+          <div class="category-icon-container">
+            <span class="category-icon">🎯</span>
+          </div>
+          <h3 class="category-name">系统读书</h3>
+          <p class="category-count">100 本书</p>
+          <div class="category-hover" :class="{ 'show': hoveredCategory === 100 }"></div>
+        </a>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -129,3 +146,9 @@ export default {
   opacity: 1;
 }
 </style>
+
+
+
+
+
+
