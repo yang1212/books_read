@@ -2,7 +2,7 @@
   <div class="home-container">
     <!-- 头部搜索区域 -->
     <div class="hero-section">
-      <h1 class="hero-title">📚 书籍推荐</h1>
+      <h1 class="hero-title">🌴 书籍推荐</h1>
       <p class="hero-subtitle">发现你的下一本心仪好书</p>
       <!-- <div class="search-box">
         <input type="text" placeholder="搜索书籍..." class="search-input">

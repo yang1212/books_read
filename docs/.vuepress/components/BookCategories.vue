@@ -1,6 +1,6 @@
 <template>
   <div class="categories-container">
-    <h2 class="categories-title">💫  书籍分类</h2>
+    <h2 class="categories-title">🌵   书籍分类</h2>
     <div class="categories-grid">
       <div class="category-card" v-for="category in categories" :key="category.id"
            @mouseenter="hoveredCategory = category.id"

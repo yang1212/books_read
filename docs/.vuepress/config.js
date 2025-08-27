@@ -1,10 +1,9 @@
 module.exports = {
-  title: '📚 书籍推荐',
+  title: '🐙 书籍推荐',
   description: '书籍分类导航',
   themeConfig: {
     nav: [
       { text: '🏠 主站', link: 'https://yangfu.asia' }, 
-      { text: 'GitHub', link: 'https://github.com/yang1212/books_read' }
     ],
     // 恢复侧边栏但设置为可折叠
     sidebar: 'false'
